@@ -71,7 +71,7 @@ A booking site for venues and artists built with Flask and PostgreSQL.
 ## 📫 Contact Me
 
 - 💌 Email: deantoshdaiddoh@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/deantosh](https://linkedin.com/in/deantosh) 
+- 💼 LinkedIn: [linkedin.com/in/deantosh-daiddoh](https://www.linkedin.com/in/deantosh-daiddoh/) 
 
 ---
 
