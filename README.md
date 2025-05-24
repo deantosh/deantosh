@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Deantosh Daiddoh]
+# 👋 Hi there! I'm Deantosh Daiddoh
 
 Welcome to my GitHub! I'm a passionate software developer who enjoys building scalable, user-friendly applications — from the terminal to the web. I love learning new technologies and solving complex problems with clean, efficient code.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate software developer who enjoys building sc
 
 ## 💼 About Me
 
-- 🌍 Based in [Nairobi, Kenya]
+- 🌍 Based in Nairobi, Kenya
 - 🧠 Lifelong learner with a strong foundation in full-stack web development and systems programming.
 - 🔭 Currently working on improving backend performance and learning DevOps practices.
 - ⚡ Fun fact: I built a chat app, a budget-saving app, and even a shell from scratch!
@@ -70,8 +70,8 @@ A booking site for venues and artists built with Flask and PostgreSQL.
 
 ## 📫 Contact Me
 
-- 💌 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/deantosh) 
+- 💌 Email: deantoshdaiddoh@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/deantosh](https://linkedin.com/in/deantosh) 
 
 ---
 
